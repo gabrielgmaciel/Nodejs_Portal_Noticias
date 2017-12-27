@@ -14,4 +14,4 @@ depois de instalado, execute o comando
 
 abra o navegador em 
 
-- http://locahost:3000/
+- http://localhost:3000/
